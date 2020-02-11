@@ -4,5 +4,9 @@ html{
 h1{
     background-color: rebeccapurple;
     color: rgb(255, 255, 255);
+    border-bottom: hotpink;
+    border-bottom-color: hotpink;
+    border-bottom-width: 4px;
+    border-bottom-style: solid;
 }
 
