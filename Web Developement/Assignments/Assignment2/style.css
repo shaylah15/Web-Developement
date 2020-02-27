@@ -1,0 +1,18 @@
+html{
+    background-color: white;
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    background-color: yellow;
+    height: 45px;
+    
+
+}
+div{
+    text-align: center;
+    background-color: rgb(112, 110, 110);
+    color: white;
+    vertical-align: text-top;
+    height: 40px;
+}
