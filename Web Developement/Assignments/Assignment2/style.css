@@ -16,21 +16,19 @@ div{
     vertical-align: text-top;
     height: 40px;
 }
-/* Create two unequal columns that sits next to each other */
 /* Sidebar/left column */
 h5{
-    flex: 30%;
+    
 }
 
 p{
-   flex: 30% ;
+   
 }
 a hr{
-    flex: 30%;
+    
 }
 /* Main column */
 p{
-    position: relative;
-    flex: 70%;
+    
 
 }
