@@ -3,7 +3,7 @@
   }
   .column {
     float: right;
-    padding: 10px;
+    padding: 5px;
     height: 300px; 
   }
 .left {
@@ -17,10 +17,23 @@
     display: table;
     clear: both;
   }
-}
 h1{
     text-align: center;
     text-transform: uppercase;
     background-color: yellow;
     height: 45px;
+}
+.topnav{
+    text-align: center;
+    background-color: gray;
+}
+h2{
+    text-transform: uppercase;
+    color: yellow;
+}
+h3{
+    text-transform: uppercase;
+}
+h4{
+    text-transform: uppercase;
 }
