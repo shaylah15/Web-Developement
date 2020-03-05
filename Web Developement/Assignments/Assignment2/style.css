@@ -1,34 +1,26 @@
-html{
-    background-color: white;
+* {
+    box-sizing: border-box;
+  }
+  .column {
+    float: right;
+    padding: 10px;
+    height: 300px; 
+  }
+.left {
+    width: 75%;
+  }
+.right {
+    width: 25%;
+  }
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
 }
 h1{
     text-align: center;
     text-transform: uppercase;
     background-color: yellow;
     height: 45px;
-    
-/* Column container */
-}
-div{
-    text-align: center;
-    background-color: rgb(112, 110, 110);
-    color: white;
-    vertical-align: text-top;
-    height: 40px;
-}
-/* Sidebar/left column */
-h5{
-    
-}
-
-p{
-   
-}
-a hr{
-    
-}
-/* Main column */
-p{
-    
-
 }
