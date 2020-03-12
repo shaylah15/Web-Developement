@@ -21,10 +21,7 @@ img{
     position: absolute;
     left: 0px;
     top: 110px;
-    bottom: inherit;
     z-index: -1;
-   
-
 }
 h1{
     text-align: center;
